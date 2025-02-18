@@ -1,0 +1,1361 @@
+[
+  {
+    "id": 1,
+    "sprite": "../../src/assets/sprites/1.png",
+    "name": "BULBASAUR",
+    "species": "SEED",
+    "height": "2'04\"",
+    "weight": "15.0 lb",
+    "dexEntry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON."
+  },
+  {
+    "id": 2,
+    "sprite": "../../src/assets/sprites/2.png",
+    "name": "IVYSAUR",
+    "species": "SEED",
+    "height": "3'03\"",
+    "weight": "29.0 lb",
+    "dexEntry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+  },
+  {
+    "id": 3,
+    "sprite": "../../src/assets/sprites/3.png",
+    "name": "VENUSAUR",
+    "species": "SEED",
+    "height": "6'07\"",
+    "weight": "221.0 lb",
+    "dexEntry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+  },
+  {
+    "id": 4,
+    "sprite": "../../src/assets/sprites/4.png",
+    "name": "CHARMANDER",
+    "species": "LIZARD",
+    "height": "2'00\"",
+    "weight": "19.0 lb",
+    "dexEntry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+  },
+  {
+    "id": 5,
+    "sprite": "../../src/assets/sprites/5.png",
+    "name": "CHARMELEON",
+    "species": "FLAME",
+    "height": "3'07\"",
+    "weight": "42.0 lb",
+    "dexEntry": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
+  },
+  {
+    "id": 6,
+    "sprite": "../../src/assets/sprites/6.png",
+    "name": "CHARIZARD",
+    "species": "FLAME",
+    "height": "5'07\"",
+    "weight": "200.0 lb",
+    "dexEntry": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+  },
+  {
+    "id": 7,
+    "sprite": "../../src/assets/sprites/7.png",
+    "name": "SQUIRTLE",
+    "species": "TINYTURTLE",
+    "height": "1'08\"",
+    "weight": "20.0 lb",
+    "dexEntry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
+  },
+  {
+    "id": 8,
+    "sprite": "../../src/assets/sprites/8.png",
+    "name": "WARTORTLE",
+    "species": "TURTLE",
+    "height": "3'03\"",
+    "weight": "50.0 lb",
+    "dexEntry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
+  },
+  {
+    "id": 9,
+    "sprite": "../../src/assets/sprites/9.png",
+    "name": "BLASTOISE",
+    "species": "SHELLFISH",
+    "height": "5'03\"",
+    "weight": "189.0 lb",
+    "dexEntry": "A brutal POKéMON with pressurized water jets on its shell. They are used for high speed tackles."
+  },
+  {
+    "id": 10,
+    "sprite": "../../src/assets/sprites/10.png",
+    "name": "CATERPIE",
+    "species": "WORM",
+    "height": "1'00\"",
+    "weight": "6.0 lb",
+    "dexEntry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
+  },
+  {
+    "id": 11,
+    "sprite": "../../src/assets/sprites/11.png",
+    "name": "METAPOD",
+    "species": "COCOON",
+    "height": "2'04\"",
+    "weight": "22.0 lb",
+    "dexEntry": "This POKéMON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
+  },
+  {
+    "id": 12,
+    "sprite": "../../src/assets/sprites/12.png",
+    "name": "BUTTERFREE",
+    "species": "BUTTERFLY",
+    "height": "3'07\"",
+    "weight": "71.0 lb",
+    "dexEntry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
+  },
+  {
+    "id": 13,
+    "sprite": "../../src/assets/sprites/13.png",
+    "name": "WEEDLE",
+    "species": "HAIRY BUG",
+    "height": "1'00\"",
+    "weight": "7.0 lb",
+    "dexEntry": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
+  },
+  {
+    "id": 14,
+    "sprite": "../../src/assets/sprites/14.png",
+    "name": "KAKUNA",
+    "species": "COCOON",
+    "height": "2'00\"",
+    "weight": "22.0 lb",
+    "dexEntry": "Almost incapable of moving, this POKéMON can only harden its shell to protect itself from predators."
+  },
+  {
+    "id": 15,
+    "sprite": "../../src/assets/sprites/15.png",
+    "name": "BEEDRILL",
+    "species": "POISON BEE",
+    "height": "3'03\"",
+    "weight": "65.0 lb",
+    "dexEntry": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
+  },
+  {
+    "id": 16,
+    "sprite": "../../src/assets/sprites/16.png",
+    "name": "PIDGEY",
+    "species": "TINY BIRD",
+    "height": "1'00\"",
+    "weight": "4.0 lb",
+    "dexEntry": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
+  },
+  {
+    "id": 17,
+    "sprite": "../../src/assets/sprites/17.png",
+    "name": "PIDGEOTTO",
+    "species": "BIRD",
+    "height": "3'07\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Very protective of its sprawling territorial area, this POKéMON will fiercely peck at any intruder."
+  },
+  {
+    "id": 18,
+    "sprite": "../../src/assets/sprites/18.png",
+    "name": "PIDGEOT",
+    "species": "BIRD",
+    "height": "4'11\"",
+    "weight": "87.0 lb",
+    "dexEntry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
+  },
+  {
+    "id": 19,
+    "sprite": "../../src/assets/sprites/19.png",
+    "name": "RATTATA",
+    "species": "RAT",
+    "height": "1'00\"",
+    "weight": "8.0 lb",
+    "dexEntry": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
+  },
+  {
+    "id": 20,
+    "sprite": "../../src/assets/sprites/20.png",
+    "name": "RATICATE",
+    "species": "RAT",
+    "height": "2'04\"",
+    "weight": "41.0 lb",
+    "dexEntry": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
+  },
+  {
+    "id": 21,
+    "sprite": "../../src/assets/sprites/21.png",
+    "name": "SPEAROW",
+    "species": "TINY BIRD",
+    "height": "1'00\"",
+    "weight": "4.0 lb",
+    "dexEntry": "Eats bugs in grassy areas. It has to flap its shorts wings at high speeds to stay airborne."
+  },
+  {
+    "id": 22,
+    "sprite": "../../src/assets/sprites/22.png",
+    "name": "FEAROW",
+    "species": "BEAK",
+    "height": "3'11\"",
+    "weight": "84.0 lb",
+    "dexEntry": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
+  },
+  {
+    "id": 23,
+    "sprite": "../../src/assets/sprites/23.png",
+    "name": "EKANS",
+    "species": "SNAKE",
+    "height": "6'07\"",
+    "weight": "15.0 lb",
+    "dexEntry": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
+  },
+  {
+    "id": 24,
+    "sprite": "../../src/assets/sprites/24.png",
+    "name": "ARBOK",
+    "species": "COBRA",
+    "height": "11'06\"",
+    "weight": "143.0 lb",
+    "dexEntry": "It is rumored that the ferocious warning markings on its belly differ from area to area."
+  },
+  {
+    "id": 25,
+    "sprite": "../../src/assets/sprites/25.png",
+    "name": "PIKACHU",
+    "species": "MOUSE",
+    "height": "1'04\"",
+    "weight": "13.0 lb",
+    "dexEntry": "When several of these POKéMON gather, their electricity could build and cause lightning storms."
+  },
+  {
+    "id": 26,
+    "sprite": "../../src/assets/sprites/26.png",
+    "name": "RAICHU",
+    "species": "MOUSE",
+    "height": "2'07\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Its long tail serves as a ground to protect itself from its own high voltage power."
+  },
+  {
+    "id": 27,
+    "sprite": "../../src/assets/sprites/27.png",
+    "name": "SANDSHREW",
+    "species": "MOUSE",
+    "height": "2'00\"",
+    "weight": "26.0 lb",
+    "dexEntry": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
+  },
+  {
+    "id": 28,
+    "sprite": "../../src/assets/sprites/28.png",
+    "name": "SANDSLASH",
+    "species": "MOUSE",
+    "height": "3'03\"",
+    "weight": "65.0 lb",
+    "dexEntry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
+  },
+  {
+    "id": 29,
+    "sprite": "../../src/assets/sprites/29.png",
+    "name": "NIDORAN (Female)",
+    "species": "POISON PIN",
+    "height": "1'04\"",
+    "weight": "15.0 lb",
+    "dexEntry": "Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns."
+  },
+  {
+    "id": 30,
+    "sprite": "../../src/assets/sprites/30.png",
+    "name": "NIDORINA",
+    "species": "POISON PIN",
+    "height": "2'07\"",
+    "weight": "44.0 lb",
+    "dexEntry": "The female's horn develops slowly. Prefers physical attacks such as clawing and biting."
+  },
+  {
+    "id": 31,
+    "sprite": "../../src/assets/sprites/31.png",
+    "name": "NIDOQUEEN",
+    "species": "DRILL",
+    "height": "4'03\"",
+    "weight": "132.0 lb",
+    "dexEntry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
+  },
+  {
+    "id": 32,
+    "sprite": "../../src/assets/sprites/32.png",
+    "name": "NIDORAN (Male)",
+    "species": "POISON PIN",
+    "height": "1'08\"",
+    "weight": "20.0 lb",
+    "dexEntry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
+  },
+  {
+    "id": 33,
+    "sprite": "../../src/assets/sprites/33.png",
+    "name": "NIDORINO",
+    "species": "POISON PIN",
+    "height": "2'11\"",
+    "weight": "43.0 lb",
+    "dexEntry": "An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom."
+  },
+  {
+    "id": 34,
+    "sprite": "../../src/assets/sprites/34.png",
+    "name": "NIDOKING",
+    "species": "DRILL",
+    "height": "4'07\"",
+    "weight": "137.0 lb",
+    "dexEntry": "It uses its powerful tail in battle to smash, constrict, then break the prey's bones."
+  },
+  {
+    "id": 35,
+    "sprite": "../../src/assets/sprites/35.png",
+    "name": "CLEFAIRY",
+    "species": "FAIRY",
+    "height": "2'00\"",
+    "weight": "17.0 lb",
+    "dexEntry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
+  },
+  {
+    "id": 36,
+    "sprite": "../../src/assets/sprites/36.png",
+    "name": "CLEFABLE",
+    "species": "FAIRY",
+    "height": "4'03\"",
+    "weight": "88.0 lb",
+    "dexEntry": "A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people."
+  },
+  {
+    "id": 37,
+    "sprite": "../../src/assets/sprites/37.png",
+    "name": "VULPIX",
+    "species": "FOX",
+    "height": "2'00\"",
+    "weight": "22.0 lb",
+    "dexEntry": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
+  },
+  {
+    "id": 38,
+    "sprite": "../../src/assets/sprites/38.png",
+    "name": "NINETALES",
+    "species": "FOX",
+    "height": "3'07\"",
+    "weight": "44.0 lb",
+    "dexEntry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
+  },
+  {
+    "id": 39,
+    "sprite": "../../src/assets/sprites/39.png",
+    "name": "JIGGLYPUFF",
+    "species": "BALLOON",
+    "height": "1'08\"",
+    "weight": "12.0 lb",
+    "dexEntry": "When its huge eyes light up, it sings a mysterious soothing melody that lulls its enemies to sleep."
+  },
+  {
+    "id": 40,
+    "sprite": "../../src/assets/sprites/40.png",
+    "name": "WIGGLYTUFF",
+    "species": "BALLOON",
+    "height": "3'03\"",
+    "weight": "26.0 lb",
+    "dexEntry": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
+  },
+  {
+    "id": 41,
+    "sprite": "../../src/assets/sprites/41.png",
+    "name": "ZUBAT",
+    "species": "BAT",
+    "height": "2'07\"",
+    "weight": "17.0 lb",
+    "dexEntry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
+  },
+  {
+    "id": 42,
+    "sprite": "../../src/assets/sprites/42.png",
+    "name": "GOLBAT",
+    "species": "BAT",
+    "height": "5'03\"",
+    "weight": "121.0 lb",
+    "dexEntry": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
+  },
+  {
+    "id": 43,
+    "sprite": "../../src/assets/sprites/43.png",
+    "name": "ODDISH",
+    "species": "WEED",
+    "height": "1'08\"",
+    "weight": "12.0 lb",
+    "dexEntry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
+  },
+  {
+    "id": 44,
+    "sprite": "../../src/assets/sprites/44.png",
+    "name": "GLOOM",
+    "species": "WEED",
+    "height": "2'07\"",
+    "weight": "19.0 lb",
+    "dexEntry": "The fluid that oozes from its mouth isn't drool. It is a nectar that is used to attract prey."
+  },
+  {
+    "id": 45,
+    "sprite": "../../src/assets/sprites/45.png",
+    "name": "VILEPLUME",
+    "species": "FLOWER",
+    "height": "3'11\"",
+    "weight": "41.0 lb",
+    "dexEntry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
+  },
+  {
+    "id": 46,
+    "sprite": "../../src/assets/sprites/46.png",
+    "name": "PARAS",
+    "species": "MUSHROOM",
+    "height": "1'00\"",
+    "weight": "12.0 lb",
+    "dexEntry": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
+  },
+  {
+    "id": 47,
+    "sprite": "../../src/assets/sprites/47.png",
+    "name": "PARASECT",
+    "species": "MUSHROOM",
+    "height": "3'03\"",
+    "weight": "65.0 lb",
+    "dexEntry": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
+  },
+  {
+    "id": 48,
+    "sprite": "../../src/assets/sprites/48.png",
+    "name": "VENONAT",
+    "species": "INSECT",
+    "height": "3'03\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
+  },
+  {
+    "id": 49,
+    "sprite": "../../src/assets/sprites/49.png",
+    "name": "VENOMOTH",
+    "species": "POISONMOTH",
+    "height": "4'11\"",
+    "weight": "28.0 lb",
+    "dexEntry": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
+  },
+  {
+    "id": 50,
+    "sprite": "../../src/assets/sprites/50.png",
+    "name": "DIGLETT",
+    "species": "MOLE",
+    "height": "0'08\"",
+    "weight": "2.0 lb",
+    "dexEntry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
+  },
+  {
+    "id": 51,
+    "sprite": "../../src/assets/sprites/51.png",
+    "name": "DUGTRIO",
+    "species": "MOLE",
+    "height": "2'04\"",
+    "weight": "73.0 lb",
+    "dexEntry": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
+  },
+  {
+    "id": 52,
+    "sprite": "../../src/assets/sprites/52.png",
+    "name": "MEOWTH",
+    "species": "SCRATCHCAT",
+    "height": "1'04\"",
+    "weight": "9.0 lb",
+    "dexEntry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
+  },
+  {
+    "id": 53,
+    "sprite": "../../src/assets/sprites/53.png",
+    "name": "PERSIAN",
+    "species": "CLASSY CAT",
+    "height": "3'03\"",
+    "weight": "71.0 lb",
+    "dexEntry": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
+  },
+  {
+    "id": 54,
+    "sprite": "../../src/assets/sprites/54.png",
+    "name": "PSYDUCK",
+    "species": "DUCK",
+    "height": "2'07\"",
+    "weight": "43.0 lb",
+    "dexEntry": "While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers."
+  },
+  {
+    "id": 55,
+    "sprite": "../../src/assets/sprites/55.png",
+    "name": "GOLDUCK",
+    "species": "DUCK",
+    "height": "5'07\"",
+    "weight": "169.0 lb",
+    "dexEntry": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
+  },
+  {
+    "id": 56,
+    "sprite": "../../src/assets/sprites/56.png",
+    "name": "MANKEY",
+    "species": "PIG MONKEY",
+    "height": "1'08\"",
+    "weight": "62.0 lb",
+    "dexEntry": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant."
+  },
+  {
+    "id": 57,
+    "sprite": "../../src/assets/sprites/57.png",
+    "name": "PRIMEAPE",
+    "species": "PIG MONKEY",
+    "height": "3'03\"",
+    "weight": "71.0 lb",
+    "dexEntry": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught."
+  },
+  {
+    "id": 58,
+    "sprite": "../../src/assets/sprites/58.png",
+    "name": "GROWLITHE",
+    "species": "PUPPY",
+    "height": "2'04\"",
+    "weight": "42.0 lb",
+    "dexEntry": "Very protective of its territory. It will bark and bite to repel intruders from its space."
+  },
+  {
+    "id": 59,
+    "sprite": "../../src/assets/sprites/59.png",
+    "name": "ARCANINE",
+    "species": "LEGENDARY",
+    "height": "6'03\"",
+    "weight": "342.0 lb",
+    "dexEntry": "A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings."
+  },
+  {
+    "id": 60,
+    "sprite": "../../src/assets/sprites/60.png",
+    "name": "POLIWAG",
+    "species": "TADPOLE",
+    "height": "2'00\"",
+    "weight": "27.0 lb",
+    "dexEntry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
+  },
+  {
+    "id": 61,
+    "sprite": "../../src/assets/sprites/61.png",
+    "name": "POLIWHIRL",
+    "species": "TADPOLE",
+    "height": "3'03\"",
+    "weight": "44.0 lb",
+    "dexEntry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
+  },
+  {
+    "id": 62,
+    "sprite": "../../src/assets/sprites/62.png",
+    "name": "POLIWRATH",
+    "species": "TADPOLE",
+    "height": "4'03\"",
+    "weight": "119.0 lb",
+    "dexEntry": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
+  },
+  {
+    "id": 63,
+    "sprite": "../../src/assets/sprites/63.png",
+    "name": "ABRA",
+    "species": "PSI",
+    "height": "2'11\"",
+    "weight": "43.0 lb",
+    "dexEntry": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
+  },
+  {
+    "id": 64,
+    "sprite": "../../src/assets/sprites/64.png",
+    "name": "KADABRA",
+    "species": "PSI",
+    "height": "4'03\"",
+    "weight": "125.0 lb",
+    "dexEntry": "It emits special alpha waves from its body that induce headaches just by being close by."
+  },
+  {
+    "id": 65,
+    "sprite": "../../src/assets/sprites/65.png",
+    "name": "ALAKAZAM",
+    "species": "PSI",
+    "height": "4'11\"",
+    "weight": "106.0 lb",
+    "dexEntry": "Its brain can out-perform a supercomputer. Its intelligence quotient is said to be 5,000."
+  },
+  {
+    "id": 66,
+    "sprite": "../../src/assets/sprites/66.png",
+    "name": "MACHOP",
+    "species": "SUPERPOWER",
+    "height": "2'7\"",
+    "weight": "43.0 lb",
+    "dexEntry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
+  },
+  {
+    "id": 67,
+    "sprite": "../../src/assets/sprites/67.png",
+    "name": "MACHOKE",
+    "species": "SUPERPOWER",
+    "height": "4'11\"",
+    "weight": "155.0 lb",
+    "dexEntry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
+  },
+  {
+    "id": 68,
+    "sprite": "../../src/assets/sprites/68.png",
+    "name": "MACHAMP",
+    "species": "SUPERPOWER",
+    "height": "5'03\"",
+    "weight": "287.0 lb",
+    "dexEntry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
+  },
+  {
+    "id": 69,
+    "sprite": "../../src/assets/sprites/69.png",
+    "name": "BELLSPROUT",
+    "species": "FLOWER",
+    "height": "2'04\"",
+    "weight": "9.0 lb",
+    "dexEntry": "A carnivorous POKéMON that traps and eats bugs. It uses its root feet to soak up needed moisture."
+  },
+  {
+    "id": 70,
+    "sprite": "../../src/assets/sprites/70.png",
+    "name": "WEEPINBELL",
+    "species": "FLYCATCHER",
+    "height": "3'03\"",
+    "weight": "14.0 lb",
+    "dexEntry": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
+  },
+  {
+    "id": 71,
+    "sprite": "../../src/assets/sprites/71.png",
+    "name": "VICTREEBEL",
+    "species": "FLYCATCHER",
+    "height": "5'07\"",
+    "weight": "34.0 lb",
+    "dexEntry": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
+  },
+  {
+    "id": 72,
+    "sprite": "../../src/assets/sprites/72.png",
+    "name": "TENTACOOL",
+    "species": "JELLYFISH",
+    "height": "2'11\"",
+    "weight": "100.0 lb",
+    "dexEntry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
+  },
+  {
+    "id": 73,
+    "sprite": "../../src/assets/sprites/73.png",
+    "name": "TENTACRUEL",
+    "species": "JELLYFISH",
+    "height": "5'03\"",
+    "weight": "121.0 lb",
+    "dexEntry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
+  },
+  {
+    "id": 74,
+    "sprite": "../../src/assets/sprites/74.png",
+    "name": "GEODUDE",
+    "species": "ROCK",
+    "height": "1'04\"",
+    "weight": "44.0 lb",
+    "dexEntry": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
+  },
+  {
+    "id": 75,
+    "sprite": "../../src/assets/sprites/75.png",
+    "name": "GRAVELER",
+    "species": "ROCK",
+    "height": "3'03\"",
+    "weight": "232.0 lb",
+    "dexEntry": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
+  },
+  {
+    "id": 76,
+    "sprite": "../../src/assets/sprites/76.png",
+    "name": "GOLEM",
+    "species": "MEGATON",
+    "height": "4'07\"",
+    "weight": "662.0 lb",
+    "dexEntry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
+  },
+  {
+    "id": 77,
+    "sprite": "../../src/assets/sprites/77.png",
+    "name": "PONYTA",
+    "species": "FIRE HORSE",
+    "height": "3'03\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
+  },
+  {
+    "id": 78,
+    "sprite": "../../src/assets/sprites/78.png",
+    "name": "RAPIDASH",
+    "species": "FIRE HORSE",
+    "height": "5'07\"",
+    "weight": "209.0 lb",
+    "dexEntry": "Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it."
+  },
+  {
+    "id": 79,
+    "sprite": "../../src/assets/sprites/79.png",
+    "name": "SLOWPOKE",
+    "species": "DOPEY",
+    "height": "3'11\"",
+    "weight": "79.0 lb",
+    "dexEntry": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
+  },
+  {
+    "id": 80,
+    "sprite": "../../src/assets/sprites/80.png",
+    "name": "SLOWBRO",
+    "species": "HERMITCRAB",
+    "height": "5'03\"",
+    "weight": "173.0 lb",
+    "dexEntry": "The SHELLDER that is latched onto SLOWPOKE's tail is said to feed on the host's left over scraps."
+  },
+  {
+    "id": 81,
+    "sprite": "../../src/assets/sprites/81.png",
+    "name": "MAGNEMITE",
+    "species": "MAGNET",
+    "height": "1'00\"",
+    "weight": "13.0 lb",
+    "dexEntry": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
+  },
+  {
+    "id": 82,
+    "sprite": "../../src/assets/sprites/82.png",
+    "name": "MAGNETON",
+    "species": "MAGNET",
+    "height": "3'03\"",
+    "weight": "132.0 lb",
+    "dexEntry": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
+  },
+  {
+    "id": 83,
+    "sprite": "../../src/assets/sprites/83.png",
+    "name": "FARFETCH'D",
+    "species": "WILD DUCK",
+    "height": "2'07\"",
+    "weight": "33.0 lb",
+    "dexEntry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
+  },
+  {
+    "id": 84,
+    "sprite": "../../src/assets/sprites/84.png",
+    "name": "DODUO",
+    "species": "TWIN BIRD",
+    "height": "4'07\"",
+    "weight": "86.0 lb",
+    "dexEntry": "A bird that makes up for its poor flying with its fast food speed. Leaves giant footprints."
+  },
+  {
+    "id": 85,
+    "sprite": "../../src/assets/sprites/85.png",
+    "name": "DODRIO",
+    "species": "TRIPLEBIRD",
+    "height": "5'11\"",
+    "weight": "188.0 lb",
+    "dexEntry": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
+  },
+  {
+    "id": 86,
+    "sprite": "../../src/assets/sprites/86.png",
+    "name": "SEEL",
+    "species": "SEA LION",
+    "height": "3'07\"",
+    "weight": "198.0 lb",
+    "dexEntry": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
+  },
+  {
+    "id": 87,
+    "sprite": "../../src/assets/sprites/87.png",
+    "name": "DEWGONG",
+    "species": "SEA LION",
+    "height": "5'07\"",
+    "weight": "265.0 lb",
+    "dexEntry": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
+  },
+  {
+    "id": 88,
+    "sprite": "../../src/assets/sprites/88.png",
+    "name": "GRIMER",
+    "species": "SLUDGE",
+    "height": "2'11\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
+  },
+  {
+    "id": 89,
+    "sprite": "../../src/assets/sprites/89.png",
+    "name": "MUK",
+    "species": "SLUDGE",
+    "height": "3'11\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
+  },
+  {
+    "id": 90,
+    "sprite": "../../src/assets/sprites/90.png",
+    "name": "SHELLDER",
+    "species": "BIVALVE",
+    "height": "1'00\"",
+    "weight": "9.0 lb",
+    "dexEntry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
+  },
+  {
+    "id": 91,
+    "sprite": "../../src/assets/sprites/91.png",
+    "name": "CLOYSTER",
+    "species": "BIVALVE",
+    "height": "4'11\"",
+    "weight": "292.0 lb",
+    "dexEntry": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
+  },
+  {
+    "id": 92,
+    "sprite": "../../src/assets/sprites/92.png",
+    "name": "GASTLY",
+    "species": "GAS",
+    "height": "4'03\"",
+    "weight": "0.2 lb",
+    "dexEntry": "Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice."
+  },
+  {
+    "id": 93,
+    "sprite": "../../src/assets/sprites/93.png",
+    "name": "HAUNTER",
+    "species": "GAS",
+    "height": "5'03\"",
+    "weight": "0.2 lb",
+    "dexEntry": "Because of its ability to slip through block walls, it is said to be from another dimension."
+  },
+  {
+    "id": 94,
+    "sprite": "../../src/assets/sprites/94.png",
+    "name": "GENGAR",
+    "species": "SHADOW",
+    "height": "4'11\"",
+    "weight": "89.0 lb",
+    "dexEntry": "Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright."
+  },
+  {
+    "id": 95,
+    "sprite": "../../src/assets/sprites/95.png",
+    "name": "ONIX",
+    "species": "ROCK SNAKE",
+    "height": "28'10\"",
+    "weight": "463.0 lb",
+    "dexEntry": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
+  },
+  {
+    "id": 96,
+    "sprite": "../../src/assets/sprites/96.png",
+    "name": "DROWZEE",
+    "species": "HYPNOSIS",
+    "height": "3'03\"",
+    "weight": "71.0 lb",
+    "dexEntry": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
+  },
+  {
+    "id": 97,
+    "sprite": "../../src/assets/sprites/97.png",
+    "name": "HYPNO",
+    "species": "HYPNOSIS",
+    "height": "5'03\"",
+    "weight": "167.0 lb",
+    "dexEntry": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
+  },
+  {
+    "id": 98,
+    "sprite": "../../src/assets/sprites/98.png",
+    "name": "KRABBY",
+    "species": "RIVER CRAB",
+    "height": "1'04\"",
+    "weight": "14.0 lb",
+    "dexEntry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
+  },
+  {
+    "id": 99,
+    "sprite": "../../src/assets/sprites/99.png",
+    "name": "KINGLER",
+    "species": "PINCER",
+    "height": "4'03\"",
+    "weight": "132.0 lb",
+    "dexEntry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
+  },
+  {
+    "id": 100,
+    "sprite": "../../src/assets/sprites/100.png",
+    "name": "VOLTORB",
+    "species": "BALL",
+    "height": "1'08\"",
+    "weight": "23.0 lb",
+    "dexEntry": "Usually found in power plants. Easily mistaken for a POKE BALL, they have zapped many people."
+  },
+  {
+    "id": 101,
+    "sprite": "../../src/assets/sprites/101.png",
+    "name": "ELECTRODE",
+    "species": "BALL",
+    "height": "3'11\"",
+    "weight": "147.0 lb",
+    "dexEntry": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
+  },
+  {
+    "id": 102,
+    "sprite": "../../src/assets/sprites/102.png",
+    "name": "EXEGGCUTE",
+    "species": "EGG",
+    "height": "1'04\"",
+    "weight": "6.0 lb",
+    "dexEntry": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
+  },
+  {
+    "id": 103,
+    "sprite": "../../src/assets/sprites/103.png",
+    "name": "EXEGGUTOR",
+    "species": "COCONUT",
+    "height": "6'07\"",
+    "weight": "265.0 lb",
+    "dexEntry": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
+  },
+  {
+    "id": 104,
+    "sprite": "../../src/assets/sprites/104.png",
+    "name": "CUBONE",
+    "species": "LONELY",
+    "height": "1'04\"",
+    "weight": "14.0 lb",
+    "dexEntry": "Because it never removes its skull helmet, no one has ever seen this POKéMON's real face."
+  },
+  {
+    "id": 105,
+    "sprite": "../../src/assets/sprites/105.png",
+    "name": "MAROWAK",
+    "species": "BONEKEEPER",
+    "height": "3'03\"",
+    "weight": "99.0 lb",
+    "dexEntry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
+  },
+  {
+    "id": 106,
+    "sprite": "../../src/assets/sprites/106.png",
+    "name": "HITMONLEE",
+    "species": "KICKING",
+    "height": "4'11\"",
+    "weight": "110.0 lb",
+    "dexEntry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
+  },
+  {
+    "id": 107,
+    "sprite": "../../src/assets/sprites/107.png",
+    "name": "HITMONCHAN",
+    "species": "PUNCHING",
+    "height": "4'07\"",
+    "weight": "111.0 lb",
+    "dexEntry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
+  },
+  {
+    "id": 108,
+    "sprite": "../../src/assets/sprites/108.png",
+    "name": "LICKITUNG",
+    "species": "LICKING",
+    "height": "3'11\"",
+    "weight": "144.0 lb",
+    "dexEntry": "Its tongue can be extended like a chameleon's. It leaves a tingling sensation when it licks enemies."
+  },
+  {
+    "id": 109,
+    "sprite": "../../src/assets/sprites/109.png",
+    "name": "KOFFING",
+    "species": "POISON GAS",
+    "height": "2'00\"",
+    "weight": "2.0 lb",
+    "dexEntry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
+  },
+  {
+    "id": 110,
+    "sprite": "../../src/assets/sprites/110.png",
+    "name": "WEEZING",
+    "species": "POISON GAS",
+    "height": "3'11\"",
+    "weight": "21.0 lb",
+    "dexEntry": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years."
+  },
+  {
+    "id": 111,
+    "sprite": "../../src/assets/sprites/111.png",
+    "name": "RHYHORN",
+    "species": "SPIKES",
+    "height": "3'03\"",
+    "weight": "254.0 lb",
+    "dexEntry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
+  },
+  {
+    "id": 112,
+    "sprite": "../../src/assets/sprites/112.png",
+    "name": "RHYDON",
+    "species": "DRILL",
+    "height": "6'03\"",
+    "weight": "265.0 lb",
+    "dexEntry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
+  },
+  {
+    "id": 113,
+    "sprite": "../../src/assets/sprites/113.png",
+    "name": "CHANSEY",
+    "species": "EGG",
+    "height": "3'07\"",
+    "weight": "76.0 lb",
+    "dexEntry": "A rare and elusive POKéMON that is said to bring happiness to those who manage to get it."
+  },
+  {
+    "id": 114,
+    "sprite": "../../src/assets/sprites/114.png",
+    "name": "TANGELA",
+    "species": "VINE",
+    "height": "3'03\"",
+    "weight": "77.0 lb",
+    "dexEntry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks."
+  },
+  {
+    "id": 115,
+    "sprite": "../../src/assets/sprites/115.png",
+    "name": "KANGASHKHAN",
+    "species": "PARENT",
+    "height": "7'03\"",
+    "weight": "176.0 lb",
+    "dexEntry": "The infant rarely ventures out of its mother's protective pouch until it is 3 years old."
+  },
+  {
+    "id": 116,
+    "sprite": "../../src/assets/sprites/116.png",
+    "name": "HORSEA",
+    "species": "DRAGON",
+    "height": "1'04\"",
+    "weight": "18.0 lb",
+    "dexEntry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
+  },
+  {
+    "id": 117,
+    "sprite": "../../src/assets/sprites/117.png",
+    "name": "SEADRA",
+    "species": "DRAGON",
+    "height": "3'11\"",
+    "weight": "55.0 lb",
+    "dexEntry": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
+  },
+  {
+    "id": 118,
+    "sprite": "../../src/assets/sprites/118.png",
+    "name": "GOLDEEN",
+    "species": "GOLDFISH",
+    "height": "2'00\"",
+    "weight": "33.0 lb",
+    "dexEntry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
+  },
+  {
+    "id": 119,
+    "sprite": "../../src/assets/sprites/119.png",
+    "name": "SEAKING",
+    "species": "GOLDFISH",
+    "height": "4'03\"",
+    "weight": "86.0 lb",
+    "dexEntry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
+  },
+  {
+    "id": 120,
+    "sprite": "../../src/assets/sprites/120.png",
+    "name": "STARYU",
+    "species": "STARSHAPE",
+    "height": "2'07\"",
+    "weight": "76.0 lb",
+    "dexEntry": "An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle."
+  },
+  {
+    "id": 121,
+    "sprite": "../../src/assets/sprites/121.png",
+    "name": "STARMIE",
+    "species": "MYSTERIOUS",
+    "height": "3'07\"",
+    "weight": "176.0 lb",
+    "dexEntry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
+  },
+  {
+    "id": 122,
+    "sprite": "../../src/assets/sprites/122.png",
+    "name": "MR.MIME",
+    "species": "BARRIER",
+    "height": "4'03\"",
+    "weight": "120.0 lb",
+    "dexEntry": "If interrupted while it is miming, it will slap around the offender with its broad hands."
+  },
+  {
+    "id": 123,
+    "sprite": "../../src/assets/sprites/123.png",
+    "name": "SCYTHER",
+    "species": "MANTIS",
+    "height": "4'11\"",
+    "weight": "123.0 lb",
+    "dexEntry": "With ninja-like agility and speed, it can create the illusion that there is more than one."
+  },
+  {
+    "id": 124,
+    "sprite": "../../src/assets/sprites/124.png",
+    "name": "JYNX",
+    "species": "HUMANSHAPE",
+    "height": "4'07\"",
+    "weight": "90.0 lb",
+    "dexEntry": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
+  },
+  {
+    "id": 125,
+    "sprite": "../../src/assets/sprites/125.png",
+    "name": "ELECTABUZZ",
+    "species": "ELECTRIC",
+    "height": "3'07\"",
+    "weight": "66.0 lb",
+    "dexEntry": "Normally found near power plants, they can wander away and cause major blackouts in cities."
+  },
+  {
+    "id": 126,
+    "sprite": "../../src/assets/sprites/126.png",
+    "name": "MAGMAR",
+    "species": "SPITFIRE",
+    "height": "4'03\"",
+    "weight": "98.0 lb",
+    "dexEntry": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
+  },
+  {
+    "id": 127,
+    "sprite": "../../src/assets/sprites/127.png",
+    "name": "PINSIR",
+    "species": "STAGBEETLE",
+    "height": "4'11\"",
+    "weight": "121.0 lb",
+    "dexEntry": "If it fails to crush the victim with its pincers, it will swing it around and toss it hard."
+  },
+  {
+    "id": 128,
+    "sprite": "../../src/assets/sprites/128.png",
+    "name": "TAUROS",
+    "species": "WILD BULL",
+    "height": "4'07\"",
+    "weight": "195.0 lb",
+    "dexEntry": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
+  },
+  {
+    "id": 129,
+    "sprite": "../../src/assets/sprites/129.png",
+    "name": "MAGIKARP",
+    "species": "FISH",
+    "height": "2'11\"",
+    "weight": "22.0 lb",
+    "dexEntry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
+  },
+  {
+    "id": 130,
+    "sprite": "../../src/assets/sprites/130.png",
+    "name": "GYARADOS",
+    "species": "ATROCIOUS",
+    "height": "21'04\"",
+    "weight": "518.0 lb",
+    "dexEntry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
+  },
+  {
+    "id": 131,
+    "sprite": "../../src/assets/sprites/131.png",
+    "name": "LAPRAS",
+    "species": "TRANSPORT",
+    "height": "8'02\"",
+    "weight": "485.0 lb",
+    "dexEntry": "A POKéMON that has been over-hunted almost to extinction. It can ferry people across the water."
+  },
+  {
+    "id": 132,
+    "sprite": "../../src/assets/sprites/132.png",
+    "name": "DITTO",
+    "species": "TRANSFORM",
+    "height": "1'00\"",
+    "weight": "9.0 lb",
+    "dexEntry": "Capable of copying an enemy's genetic code to instantly transform itself into a duplicate of the enemy."
+  },
+  {
+    "id": 133,
+    "sprite": "../../src/assets/sprites/133.png",
+    "name": "EEVEE",
+    "species": "EVOLUTION",
+    "height": "1'00\"",
+    "weight": "14.0 lb",
+    "dexEntry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
+  },
+  {
+    "id": 134,
+    "sprite": "../../src/assets/sprites/134.png",
+    "name": "VAPOREON",
+    "species": "BUBBLE JET",
+    "height": "3'03\"",
+    "weight": "64.0 lb",
+    "dexEntry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid's."
+  },
+  {
+    "id": 135,
+    "sprite": "../../src/assets/sprites/135.png",
+    "name": "JOLTEON",
+    "species": "LIGHTNING",
+    "height": "2'07\"",
+    "weight": "54.0 lb",
+    "dexEntry": "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts."
+  },
+  {
+    "id": 136,
+    "sprite": "../../src/assets/sprites/136.png",
+    "name": "FLAREON",
+    "species": "FLAME",
+    "height": "2'11\"",
+    "weight": "55.0 lb",
+    "dexEntry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
+  },
+  {
+    "id": 137,
+    "sprite": "../../src/assets/sprites/137.png",
+    "name": "PORYGON",
+    "species": "VIRTUAL",
+    "height": "2'07\"",
+    "weight": "80.0 lb",
+    "dexEntry": "A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace."
+  },
+  {
+    "id": 138,
+    "sprite": "../../src/assets/sprites/138.png",
+    "name": "OMANYTE",
+    "species": "SPIRAL",
+    "height": "1'04\"",
+    "weight": "17.0 lb",
+    "dexEntry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils."
+  },
+  {
+    "id": 139,
+    "sprite": "../../src/assets/sprites/139.png",
+    "name": "OMASTAR",
+    "species": "SPIRAL",
+    "height": "3'03\"",
+    "weight": "77.0 lb",
+    "dexEntry": "A prehistoric POKéMON that died out when its heavy shell made it impossible to catch prey."
+  },
+  {
+    "id": 140,
+    "sprite": "../../src/assets/sprites/140.png",
+    "name": "KABUTO",
+    "species": "SHELLFISH",
+    "height": "1'08\"",
+    "weight": "25.0 lb",
+    "dexEntry": "A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago."
+  },
+  {
+    "id": 141,
+    "sprite": "../../src/assets/sprites/141.png",
+    "name": "KABUTOPS",
+    "species": "SHELLFISH",
+    "height": "4'03\"",
+    "weight": "89.0 lb",
+    "dexEntry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
+  },
+  {
+    "id": 142,
+    "sprite": "../../src/assets/sprites/142.png",
+    "name": "AERODACTYL",
+    "species": "FOSSIL",
+    "height": "5'11\"",
+    "weight": "130.0 lb",
+    "dexEntry": "A ferocious, prehistoric POKéMON that goes for the enemy's throat with its serrated saw-like fangs."
+  },
+  {
+    "id": 143,
+    "sprite": "../../src/assets/sprites/143.png",
+    "name": "SNORLAX",
+    "species": "SLEEPING",
+    "height": "6'11\"",
+    "weight": "1014.0 lb",
+    "dexEntry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
+  },
+  {
+    "id": 144,
+    "sprite": "../../src/assets/sprites/144.png",
+    "name": "ARTICUNO",
+    "species": "FREEZE",
+    "height": "5'07\"",
+    "weight": "122.0 lb",
+    "dexEntry": "A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains."
+  },
+  {
+    "id": 145,
+    "sprite": "../../src/assets/sprites/145.png",
+    "name": "ZAPDOS",
+    "species": "ELECTRIC",
+    "height": "5'03\"",
+    "weight": "116.0 lb",
+    "dexEntry": "A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts."
+  },
+  {
+    "id": 146,
+    "sprite": "../../src/assets/sprites/146.png",
+    "name": "MOLTRES",
+    "species": "FLAME",
+    "height": "6'07\"",
+    "weight": "132.0 lb",
+    "dexEntry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
+  },
+  {
+    "id": 147,
+    "sprite": "../../src/assets/sprites/147.png",
+    "name": "DRATINI",
+    "species": "DRAGON",
+    "height": "5'11\"",
+    "weight": "7.0 lb",
+    "dexEntry": "Long considered a mythical POKéMON until recently when a small colony was found living underwater."
+  },
+  {
+    "id": 148,
+    "sprite": "../../src/assets/sprites/148.png",
+    "name": "DRAGONAIR",
+    "species": "DRAGON",
+    "height": "13'01\"",
+    "weight": "36.0 lb",
+    "dexEntry": "A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions."
+  },
+  {
+    "id": 149,
+    "sprite": "../../src/assets/sprites/149.png",
+    "name": "DRAGONITE",
+    "species": "DRAGON",
+    "height": "7'03\"",
+    "weight": "463.0 lb",
+    "dexEntry": "An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans."
+  },
+  {
+    "id": 150,
+    "sprite": "../../src/assets/sprites/150.png",
+    "name": "MEWTWO",
+    "species": "GENETIC",
+    "height": "6'07\"",
+    "weight": "269.0 lb",
+    "dexEntry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
+  },
+  {
+    "id": 151,
+    "sprite": "../../src/assets/sprites/151.png",
+    "name": "MEW",
+    "species": "NEW SPECIE",
+    "height": "1'04\"",
+    "weight": "9.0 lb",
+    "dexEntry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
+  }
+]
