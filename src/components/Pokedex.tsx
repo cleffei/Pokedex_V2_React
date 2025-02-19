@@ -30,8 +30,8 @@ const Pokedex: React.FC = () => {
 
   return (
     <>
-      <div className="flex space-x-5">
-        <h1>Pokémon Red/Blue Pokédex</h1>
+      <div className="flex flex-wrap justify-center md:justify-between mx-15 pixel-font text-white">
+        <h1 className="p-2 text-3xl">POKÉMON RED/BLUE POKÉDEX</h1>
         <Searchbar setSearch={setSearch} />
       </div>
 
