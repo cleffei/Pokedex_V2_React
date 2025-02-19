@@ -254,7 +254,7 @@
   {
     "id": 29,
     "sprite": "../../src/assets/sprites/29.png",
-    "name": "NIDORAN (Female)",
+    "name": "NIDORAN♀",
     "species": "POISON PIN",
     "height": "1'04\"",
     "weight": "15.0 lb",
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "sprite": "../../src/assets/sprites/32.png",
-    "name": "NIDORAN (Male)",
+    "name": "NIDORAN♂",
     "species": "POISON PIN",
     "height": "1'08\"",
     "weight": "20.0 lb",
