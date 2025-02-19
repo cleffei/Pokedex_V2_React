@@ -1,1 +1,21 @@
 @import 'tailwindcss';
+
+@font-face {
+  font-family: 'PixelFont';
+  src: url('../src/assets/fonts/PixelCode.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pixel-font {
+  font-family: 'PixelFont', sans-serif;
+}
+
+.crisp-image {
+  image-rendering: crisp-edges;
+}
+
+@theme {
+  --color-dexTop: #c78888;
+  --color-dexBottom: #d6c2c2;
+}
