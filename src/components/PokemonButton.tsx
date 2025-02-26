@@ -19,11 +19,11 @@ const PokemonButton: React.FC<ButtonProps> = ({ pokemon, handleClick }) => {
   return (
     <button
       onClick={handleClick}
-      className="bg-white border-4 border-white rounded-md hover:border-blue-200 w-full aspect-square flex justify-center items-center"
+      className="bg-white border-4 border-white rounded-xl hover:border-blue-200 w-full aspect-square flex justify-center items-center"
     >
       <img
         src={pokemon.sprite}
-        className="w-4/5 h-4/5 object-contain crisp-image"
+        className="w-7/8 h-7/8 object-contain crisp-image"
         alt={pokemon.name}
       />
     </button>
