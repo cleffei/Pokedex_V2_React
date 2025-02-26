@@ -17,17 +17,16 @@ interface ButtonProps {
 
 const PokemonButton: React.FC<ButtonProps> = ({ pokemon, handleClick }) => {
   return (
-    <div className="mx-auto">
-      <button
-        onClick={handleClick}
-        className="flex justify-center items-center bg-white border-6 border-white rounded-md  hover:border-blue-200 min-w-48"
-      >
-        <img
-          src={pokemon.sprite}
-          className="w-full h-full object-contain crisp-image"
-        />
-      </button>
-    </div>
+    <button
+      onClick={handleClick}
+      className="bg-white border-4 border-white rounded-md hover:border-blue-200 w-full aspect-square flex justify-center items-center"
+    >
+      <img
+        src={pokemon.sprite}
+        className="w-4/5 h-4/5 object-contain crisp-image"
+        alt={pokemon.name}
+      />
+    </button>
   );
 };
 

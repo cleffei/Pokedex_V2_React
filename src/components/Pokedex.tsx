@@ -35,15 +35,13 @@ const Pokedex: React.FC = () => {
         <Searchbar setSearch={setSearch} />
       </div>
 
-      <div className="w-[80%] mx-auto grid grid-cols-2 md:grid-cols-6 gap-2 md:gap-5 my-10">
+      <div className="mx-2 md:max-w-[80%] md:mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 my-4">
         {filteredResults.map((pokemon) => (
-          <>
-            <PokemonButton
-              key={pokemon.id + 151}
-              pokemon={pokemon}
-              handleClick={() => setSelectedPokemon(pokemon)}
-            />
-          </>
+          <PokemonButton
+            key={pokemon.id + 151}
+            pokemon={pokemon}
+            handleClick={() => setSelectedPokemon(pokemon)}
+          />
         ))}
       </div>
 
