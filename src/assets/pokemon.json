@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "sprite": "../../src/assets/sprites/1.png",
+    "sprite": "/assets/sprites/1.png",
     "name": "BULBASAUR",
     "species": "SEED",
     "height": "2'04\"",
