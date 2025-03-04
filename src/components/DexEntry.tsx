@@ -24,7 +24,7 @@ const DexEntry: React.FC<DexEntryProps> = ({ pokemon }) => {
           src={pokemon.sprite}
           alt={pokemon.name}
         />
-        <div className="flex flex-col text-2xl/[2] ml-4 pr-[40px] pt-2.5">
+        <div className="pixel-font-bold flex flex-col text-2xl/[2] ml-4 pr-[40px] pt-2.5">
           <p>{pokemon.name}</p>
           <p>{pokemon.species}</p>
           <p>{pokemon.height}</p>

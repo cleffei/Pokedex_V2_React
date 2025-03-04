@@ -7,8 +7,19 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'PixelFontBold';
+  src: url('../src/assets/fonts/PixelCode-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
 .pixel-font {
   font-family: 'PixelFont', sans-serif;
+}
+
+.pixel-font-bold {
+  font-family: 'PixelFontBold', sans-serif;
 }
 
 .crisp-image {
