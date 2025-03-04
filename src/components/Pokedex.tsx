@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import Searchbar from './Searchbar';
 import DexEntry from './DexEntry';
 import PokemonButton from './PokemonButton';
@@ -53,19 +54,27 @@ const Pokedex: React.FC = () => {
         {/* When the selectedPokemon state variable is populated, the screen dims using inset-0 with a modal of the DexEntry placed on top of it at the centre of the screen.
       Clicking this dimmed area will update the selected Pokémon, making it null. Since it is now null, this modal will no longer be rendered as selectedPokemon is no longer true.
       stopPropagation used to prevent clicks from within the modal closing itself.*/}
-        {selectedPokemon && (
-          <div
-            className="fixed inset-0 bg-black/15 flex justify-center items-center"
-            onClick={() => setSelectedPokemon(null)}
-          >
-            <div onClick={(e) => e.stopPropagation()}>
-              <DexEntry
-                pokemon={selectedPokemon}
-                onClick={() => setSelectedPokemon(null)}
-              />
+        <AnimatePresence>
+          {selectedPokemon && (
+            <div
+              className="fixed inset-0 bg-black/15 flex justify-center items-center"
+              onClick={() => setSelectedPokemon(null)}
+            >
+              <motion.div
+                initial={{ scale: 0, opacity: 0 }} // Start small and transparent
+                animate={{ scale: 1, opacity: 1 }} // Expand to full size and appear
+                exit={{ scale: 0, opacity: 0 }} // Shrink when closing
+                transition={{ duration: 0.3, ease: 'easeOut' }} // Smooth transition
+                onClick={(e) => e.stopPropagation()}
+              >
+                <DexEntry
+                  pokemon={selectedPokemon}
+                  onClick={() => setSelectedPokemon(null)}
+                />
+              </motion.div>
             </div>
-          </div>
-        )}
+          )}
+        </AnimatePresence>
         <footer className="pixel-font">
           <div className="mt-10 bg-dexTop border-t-5 border-blue-100 text-center text-white">
             <h1 className="p-4 text-4xl pixel-font-bold">POKÉDEX</h1>
